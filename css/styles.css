@@ -1,0 +1,35 @@
+/* Global styles */
+a {
+text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+/* .secondary-title {
+background-color: aqua;
+}
+
+.secondary-title {
+    background-color: yellowgreen;
+}
+
+.important-title, .important-text {
+    color: red;
+}
+
+#main-title {
+    font-size: 50px;
+    color: green;
+}
+
+.car-list li {
+    width: 250px;
+    color: darkorange;
+}
+
+a[alt="Brown car"] {
+    width: 100px;
+} */
+
